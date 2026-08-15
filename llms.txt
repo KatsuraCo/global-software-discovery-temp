@@ -1,0 +1,49 @@
+# Global Software Discovery MVP
+
+Global Software Discovery is a public web-first MVP for discovering useful personal software through problems, product facts, transparent signals, and community backing.
+
+Primary URL:
+https://katsuraco.github.io/global-software-discovery-temp/
+
+Purpose:
+The site tests a living discovery loop for useful software:
+problem -> demand -> product -> try -> use -> backing -> history.
+
+Current MVP surfaces:
+- Homepage / Product Wall
+- Product detail pages
+- Need detail pages
+- Profile / sign-in entry
+- Seed products
+- Seed needs
+- Canonical product fact blocks
+- Product Constitution blocks
+- Product history blocks
+
+Important product pages:
+- KeePassXC: /products/keepassxc
+- LocalSend: /products/localsend
+- Paperless-ngx: /products/paperless-ngx
+- Syncthing: /products/syncthing
+- Actual Budget: /products/actual-budget
+- Flameshot: /products/flameshot
+
+Important need pages:
+- Offline private family documents: /needs/offline-private-family-documents
+- Quick local file transfer: /needs/quick-local-file-transfer
+- Offline password vault: /needs/offline-password-vault
+
+Core principle:
+Good products should not lose because their creators cannot afford marketing.
+
+Ranking and trust principles:
+- Credibility cannot be bought.
+- Account is not trust.
+- Problems cannot be owned.
+- Provenance is permanent.
+- Sponsored reach must stay separate from organic discovery.
+- Open source is a filter, not an automatic quality score.
+
+Current limitation:
+This is V1 seed content. Try, Save, Back, and Need confirmation are represented in the interface and schema, but full persistent user action flows are not complete yet.
+
