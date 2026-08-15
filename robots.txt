@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://katsuraco.github.io/global-software-discovery-temp/sitemap.xml
+
